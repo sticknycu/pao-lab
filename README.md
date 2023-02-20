@@ -22,10 +22,18 @@ Conditia de punctare a proiectelor:
 - să nu prezinte erori de compilare
 - să se implementeze cerintele date
 
-#### Termen de predare
+```
+Proiectele se vor prezenta online, fiecare va fi programat cate 20 minute pentru prezentare.
+La prezentare o sa primiti si intrebari despre limbaj si despre ce am facut pana in momentul respectiv.
+O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, cu fiecare la ce ora este programat si ziua, iar dupa aceea o sa imi semnalati daca nu puteti prezenta atunci si putem modifica.
+```
 
-- Etapa I: saptamana 3 – 7 aprilie
-- Etapa II: saptamana 24 – 28 mai
+#### Termen de predare si examinare
+
+- Etapa I: saptamana 3 – 7 aprilie **(5p)**
+- Etapa II: saptamana 24 – 28 mai **(5p)**
+
+❕ *Laboratorul inseamna 50% din nota finala. Nota de laborator se obtine astfel: 50% prima etapa + 50% a doua etapa a proiectului + bonus*
 
 
 ##### Etapa I
@@ -71,4 +79,4 @@ Conditia de punctare a proiectelor:
 ##### Bonusuri (aprox. 14 laboratoare in total - Max 3p)
 1) Kahoot. Primii 5 studenti primesc 0.1 per kahoot. (Maxim 1p - 4 laboratoare o sa fie rezervate pentru prezentari si pregatire pentru examen)
 2) Intrebari laborator. Fiecare activitate se puncteaza cu 1. Primii 5 studenti cu cele mai multe puncte primesc 1p, primii ceilalti 5 primesc 0.5. (Maxim 1p)
-3) La final o sa facem cateva notiuni de Spring, iar cine face mini-temele o sa primeasca 1p.
+3) La final o sa facem cateva notiuni de Spring, iar cine face mini-temele o sa primeasca maxim 1p. (Maxim 1p)
