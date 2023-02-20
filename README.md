@@ -2,7 +2,9 @@
 
 ### Resurse
 
-In folderul de books sunt cateva carti de Java/Spring/Hibernate/Arhitectura care pot fi utile acum si pe viitor.
+In folderul "books" sunt cateva carti de Java/Spring/Hibernate/Arhitectura care pot fi utile acum si pe viitor. Am pus si o "prioritate" (reprezinta numarul din fata fiecarei carti), dupa cum pot fi citite.
+
+In folderul "cursuri 2023" sunt cursurile de anul trecut.
 
 Websites:
 - [Baeldung](https://www.baeldung.com/java-tutorial)
@@ -71,7 +73,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 ##### Observatii
 1) Toata lumea trebuie sa foloseasca Git & Maven. Proiectele nu se trimit ca arhiva.
 2) Proiectul trebuie sa aiba documentatie. Fiecare scrie documentatia cum vrea, in doc/pdf sau in cod. Trebuie sa stii sa explici ce ai facut in cod, nu e de ajuns doar sa-l scrii.
-2) Versiunea Java o sa fie 17.
+2) Versiunea Java o sa fie **MINIM** 17.
 3) O sa folosim Docker & Docker-Compose pentru baza de date.
 4) O sa folosim Github Workflows pentru pipelines. Se pot accepta alternative pentru cei care vor sa foloseasca altceva.
 5) Cei mai activi o sa aiba o surpriza la final de semestru.
