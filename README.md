@@ -88,5 +88,5 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * Intrebari, diferente C++ si Java, comparare cu alte limbaje, etc.
 * Notiuni basic de Git.
 * if-uri, for-uri, while-uri, do-while-uri, switch-uri, primitive, clase, mostenire (basic), interfete (basic), array-uri.
-* constructori, destructori, garbage collector, memorie, blocks.
+* constructori, destructori, garbage collector, jvm (JIT, AOT compilers), memorie, blocks.
 * Modul de notare, observatii, bonusuri.
