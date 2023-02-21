@@ -82,3 +82,11 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 1) Kahoot. Primii 5 studenti primesc 0.1 per kahoot. (Maxim 1p - 4 laboratoare o sa fie rezervate pentru prezentari si pregatire pentru examen)
 2) Intrebari laborator. Fiecare activitate se puncteaza cu 1. Primii 5 studenti cu cele mai multe puncte primesc 1p, primii ceilalti 5 primesc 0.5. (Maxim 1p)
 3) La final o sa facem cateva notiuni de Spring, iar cine face mini-temele o sa primeasca maxim 1p. (Maxim 1p)
+
+##### Laborator 1
+
+* Intrebari, diferente C++ si Java, comparare cu alte limbaje, etc.
+* Notiuni basic de Git.
+* if-uri, for-uri, while-uri, do-while-uri, switch-uri, primitive, clase, mostenire (basic), interfete (basic), array-uri.
+* constructori, destructori, garbage collector, memorie, blocks.
+* Modul de notare, observatii, bonusuri.
