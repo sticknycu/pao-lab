@@ -4,7 +4,7 @@
 
 In folderul "books" sunt cateva carti de Java/Spring/Hibernate/Arhitectura care pot fi utile acum si pe viitor. Am pus si o "prioritate" (reprezinta numarul din fata fiecarei carti), dupa cum pot fi citite.
 
-In folderul "cursuri 2023" sunt cursurile de anul trecut.
+In folderul "cursuri 2022" sunt cursurile de anul trecut.
 
 Websites:
 - [Baeldung](https://www.baeldung.com/java-tutorial)
@@ -51,7 +51,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 - - o clasa Main din care sunt făcute apeluri către servicii 
 
 ##### Etapa II
-1) Extindeți proiectul din prima etapa prin realizarea persistentei utilizând o bazadedate relationala si JDBC. 
+1) Extindeți proiectul din prima etapa prin realizarea persistentei utilizând o baza de date relationala si JDBC. 
 - Să se realizeze servicii care sa expună operații de tip create, read, update si delete pentru cel puțin 4 dintre clasele definite.
 - Se vor realiza servicii singleton generice pentru scrierea și citirea din baza de date.
 2) Realizarea unui serviciu de audit
@@ -90,3 +90,27 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * if-uri, for-uri, while-uri, do-while-uri, switch-uri, primitive, clase, mostenire (basic), interfete (basic), array-uri.
 * constructori, destructori, garbage collector, jvm (JIT, AOT compilers), memorie, blocks.
 * Modul de notare, observatii, bonusuri.
+
+##### Laborator 2
+* getters, setters, equals, hashcode, comparation (equals/hashcode), yeild blocuri switch, return switch, switch variable, text-block string, pattern matching (instanceof, scope)
+* final, static (blocks + keyword), imutabilitate
+* Abstractizare, Incapsulare, Mostenire, Polimorfism (static/dinamic --> supraincarcare/suprascriere), Abstract methods in enums
+* Clase Abstracte, Interfete, Records
+* Modificatori de access: public, protected, default, public
+* Clasa String (cu metode + imutabilitate), clasa Arrays
+* Exceptii (checked and nonchecked)
+
+##### Laborator 3 - Interview Lab
+* Lambda Function, Interfata functionala, Collections, Stream API, Optional
+* Binary Search, Binary Trees
+* Threading (basic), Comparator Interface, Load Factor & Capacity
+* StringBuilder vs StringBuffer + complexitati
+* List, ArrayList vs LinkedList + complexitati
+* Set, HashSet vs TreeSet vs LinkedHashSet + complexitati
+* Map, HashMap vs Hashtable vs LinkedHashMap + complexitati
+* Coliziuni hashmap (chaining, linear probing)
+* Queue, PriorityQueue vs Deque + complexitati
+* Vector vs Stack + complexitati
+
+##### Laborator 4 - Interview Lab
+* TODO
