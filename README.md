@@ -92,7 +92,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * Modul de notare, observatii, bonusuri.
 
 ##### Laborator 2
-* getters, setters, equals, hashcode, comparation (equals/hashcode), yeild blocuri switch, return switch, switch variable, text-block string, pattern matching (instanceof, scope)
+* getters, setters, equals, hashcode, comparation (equals/hashcode), yield blocuri switch, return switch, switch variable, text-block string, pattern matching (instanceof, scope)
 * final, static (blocks + keyword), imutabilitate
 * Modificatori de access: public, protected, default, public
 * Abstractizare, Incapsulare, Mostenire, Polimorfism (static/dinamic --> supraincarcare/suprascriere), Abstract methods in enums
