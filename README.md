@@ -98,7 +98,6 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * Abstractizare, Incapsulare, Mostenire, Polimorfism (static/dinamic --> supraincarcare/suprascriere), Abstract methods in enums
 * Clase Abstracte, Interfete (+ Clasa Abstracta vs Interfata) Records, Nested Classes (static, non-static, anonymous classes)
 * Clasa String (cu metode + imutabilitate), clasa Arrays (doar mica recapitulare ca s-a facut la curs)
-* Exceptii (checked and nonchecked)
 
 ##### Laborator 3 - Interview Lab
 * Lambda Function, Interfata functionala, Collections, Stream API, Optional
