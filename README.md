@@ -6,6 +6,8 @@ In folderul "books" sunt cateva carti de Java/Spring/Hibernate/Arhitectura care 
 
 In folderul "cursuri 2022" sunt cursurile de anul trecut.
 
+In folderul "algorithms" sunt carti de algoritmica.
+
 Websites:
 - [Baeldung](https://www.baeldung.com/java-tutorial)
 - [Java Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
@@ -35,7 +37,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 - Etapa I: saptamana 3 – 7 aprilie **(5p)**
 - Etapa II: saptamana 24 – 28 mai **(5p)**
 
-❕ *Laboratorul inseamna 50% din nota finala. Nota de laborator se obtine astfel: 50% prima etapa + 50% a doua etapa a proiectului + bonus*
+❕ *Laboratorul inseamna 40% din nota finala. Nota de laborator se obtine astfel: 50% prima etapa + 50% a doua etapa a proiectului + bonus*
 
 
 ##### Etapa I
@@ -82,6 +84,11 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 1) Kahoot. Primii 5 studenti primesc 0.1 per kahoot. (Maxim 1p - 4 laboratoare o sa fie rezervate pentru prezentari si pregatire pentru examen)
 2) Intrebari laborator. Fiecare activitate se puncteaza cu 1. Primii 5 studenti cu cele mai multe puncte primesc 1p, primii ceilalti 5 primesc 0.5. (Maxim 1p)
 3) La final o sa facem cateva notiuni de Spring, iar cine face mini-temele o sa primeasca maxim 1p. (Maxim 1p)
+
+#### Cracking the Coding Interview
+- [Structuri de Date](https://youtu.be/RBSGKlAvoiM)
+- [Grafuri](https://youtu.be/tWVWeAqZ0WU)
+- [Algoritmi - Exercitii - LeetCode](https://leetcode.com/problems/) - De obicei cele easy/medium se dau, nu chestii grele
 
 ##### Laborator 1
 
