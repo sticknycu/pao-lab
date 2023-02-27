@@ -89,6 +89,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 - [Structuri de Date](https://youtu.be/RBSGKlAvoiM)
 - [Grafuri](https://youtu.be/09_LlHjoEiY)
 - [Algoritmi - Exercitii - LeetCode](https://leetcode.com/problems/) - De obicei cele easy/medium se dau, nu chestii grele
+- [FreeCodeCamp - Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) -- FAANG
 
 ##### Laborator 1
