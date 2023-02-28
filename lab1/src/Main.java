@@ -15,13 +15,13 @@ public class Main {
         String str = null;
 
         Integer integer = new Integer(5);
-        Boolean bool = new Boolean(true);
+        Boolean boolEER = new Boolean(true);
         Float fl = new Float(3.5);
         Double d = new Double(3.5);
 
 
         fl.floatValue();
-        bool.booleanValue();
+        boolEER.booleanValue();
 
         int intValue = integer.intValue();
         Integer integer2 = 5;
@@ -42,10 +42,10 @@ public class Main {
         }
 
         int iiii = 0;
-        while (false) {
+      /*  while (false) {
             System.out.println("Hello world!");
             iiii++;
-        }
+        }*/
         System.out.println(iiii);
 
         do {
@@ -161,5 +161,21 @@ class Test3 {
         this.i = i;
         this.j = j;
         this.k = k;
+    }
+}
+
+class Testtt {
+
+
+    double de = 5;
+}
+
+class Testteerr extends Testtt {
+
+    double de = 6;
+
+    public void test() {
+        System.out.println(de);
+        System.out.println(super.de);
     }
 }
