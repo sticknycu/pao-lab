@@ -1,4 +1,4 @@
-package package2;
+package lab2;
 
 public class PackageTest2 {
 }
@@ -24,8 +24,6 @@ class FormaGeometrica {
 }
 
 interface InterfataTest {
-
-    void adress();
 
     String mail = "mail@mail.com";
 
