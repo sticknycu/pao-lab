@@ -6,6 +6,8 @@ In folderul "books" sunt cateva carti de Java/Spring/Hibernate/Arhitectura care 
 
 In folderul "cursuri 2022" sunt cursurile de anul trecut.
 
+In folderul "cursuri 2023" sunt cursurile de anul acesta.
+
 In folderul "algorithms" sunt carti de algoritmica.
 
 In fisierul "subjects.md" aveti diverse subiecte care se gasesc si pe Teams, dar le-am pus si aici.
