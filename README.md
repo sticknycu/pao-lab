@@ -105,12 +105,12 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * final, static (blocks + keyword), imutabilitate
 * Modificatori de access: public, protected, default, public
 * Abstractizare, Incapsulare, Mostenire, Polimorfism (static/dinamic --> supraincarcare/suprascriere), Abstract methods in enums
-* Clase Abstracte, Interfete (+ Clasa Abstracta vs Interfata) Records, Nested Classes (static, non-static, anonymous classes)
-* Clasa String (cu metode + imutabilitate), clasa Arrays (doar mica recapitulare ca s-a facut la curs)
-* Sesiune de coding (exercitii pentru fiecare?)
+* Clase Abstracte, Interfete (+ Clasa Abstracta vs Interfata) Records, Nested Classes (basic)
+* Clasa String (cu metode + imutabilitate)
 
 ##### Laborator 3 - Interview Lab
-* Lambda Function, Interfata functionala, Collections, Stream API, Optional
+Continuare lab2: abstract class in enums, nested classes, extindere interfete (un fel de diamond problem), order of initialization, polimorfism (static & non static class), clasa Arrays.
+* Interfata functionala, Lambda Function, Predicate, Consumer, Function, Supplier, Optional, Collections, Stream API
 * Binary Search, Binary Trees
 * Threading (basic), Comparator Interface, Load Factor & Capacity
 * StringBuilder vs StringBuffer + complexitati
