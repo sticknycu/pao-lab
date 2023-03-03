@@ -8,6 +8,8 @@ In folderul "cursuri 2022" sunt cursurile de anul trecut.
 
 In folderul "algorithms" sunt carti de algoritmica.
 
+In fisierul "subjects.md" aveti diverse subiecte care se gasesc si pe Teams, dar le-am pus si aici.
+
 Websites:
 - [Baeldung](https://www.baeldung.com/java-tutorial)
 - [Java Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
