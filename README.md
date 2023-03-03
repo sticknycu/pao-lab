@@ -109,7 +109,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * Clasa String (cu metode + imutabilitate)
 
 ##### Laborator 3 - Interview Lab
-Continuare lab2: abstract class in enums, nested classes, extindere interfete (un fel de diamond problem), order of initialization, polimorfism (static & non static class), clasa Arrays.
+Continuare lab2: abstract method in enums, nested classes, extindere interfete (un fel de diamond problem), order of initialization, polimorfism (static & non static class), clasa Arrays.
 * Interfata functionala, Lambda Function, Predicate, Consumer, Function, Supplier, Optional, Collections, Stream API
 * Binary Search, Binary Trees
 * Threading (basic), Comparator Interface, Load Factor & Capacity
