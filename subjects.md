@@ -45,4 +45,4 @@ Gasiti [aici](https://www.baeldung.com/java-abstract-classes-constructors) si ma
 
 V-am zis la primul laborator ca se poate adauga 'final' si la parametrii metodelor.
 
-Cred ca merita aruncat un ochi peste [asta](https://stackoverflow.com/questions/2236599/final-keyword-in-method-parameters).
+Cred ca merita aruncat un ochi peste [asta](https://stackoverflow.com/questions/2236599/final-keyword-in-method-parameters) si [asta](https://stackoverflow.com/questions/500508/why-should-i-use-the-keyword-final-on-a-method-parameter-in-java).
