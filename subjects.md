@@ -40,3 +40,9 @@ Gasiti [aici](https://www.baeldung.com/java-abstract-classes-constructors) si ma
 <h5>Order of initialization</h5>
 
 <img src="imgs/order_of_initialization.png">
+
+<h5>'final' keyword on method parameters</h5>
+
+V-am zis la primul laborator ca se poate adauga 'final' si la parametrii metodelor.
+
+Cred ca merita aruncat un ochi peste [asta](https://stackoverflow.com/questions/2236599/final-keyword-in-method-parameters).
