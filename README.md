@@ -113,17 +113,17 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 * Clasa String (cu metode + imutabilitate)
 
 ##### Laborator 3 - Interview Lab
-Continuare lab2: abstract method in enums, nested classes, extindere interfete (un fel de diamond problem), order of initialization, polimorfism (static & non static class), clasa Arrays.
-* Interfata functionala, Lambda Function, Predicate, Consumer, Function, Supplier, Optional, Collections, Stream API
-* Binary Search, Binary Trees
-* Threading (basic), Comparator Interface, Load Factor & Capacity
-* StringBuilder vs StringBuffer + complexitati
-* List, ArrayList vs LinkedList + complexitati
-* Set, HashSet vs TreeSet vs LinkedHashSet + complexitati
-* Map, HashMap vs Hashtable vs LinkedHashMap + complexitati
-* Coliziuni hashmap (chaining, linear probing)
-* Queue, PriorityQueue vs Deque + complexitati
-* Vector vs Stack + complexitati
+Continuare lab2: abstract method in enums, nested classes (anonymous), extindere interfete (un fel de diamond problem), order of initialization
+* Functional Interface, Lambda Function
+* Predicate & BiPredicate, Consumer & BiConsumer, Function &BiFunction & UnaryOperator, Supplier, Optional, Comparator & Comparable Interface
+* Collections, Stream API
+* Binary Search, Binary Tree
+* Threading (basic), Load Factor & Capacity
+* StringBuilder vs String Buffer
+* List Interface, ArrayList vs LinkedList + complexitati
+* Map Interface, HashMap vs Hashtable vs TreeMap vs LinkedHashMap + complexitati, HashMap Collisions (chaining, linear probing)1
+* Set Interface, HashSet vs TreeSet vs LinkedHashSet + complexitati
+* Queue, Deque, Vector, Stack
 
 ##### Laborator 4 - Interview Lab
 * TODO
