@@ -118,12 +118,13 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Predicate & BiPredicate, Consumer & BiConsumer, Function &BiFunction & UnaryOperator, Supplier, Optional, Comparator & Comparable Interface
 * Collections, Stream API
 * Binary Search, Binary Tree
+* Exercitii
+
+##### Laborator 4 - Interview Lab
 * Threading (basic), Load Factor & Capacity
 * StringBuilder vs String Buffer
 * List Interface, ArrayList vs LinkedList + complexitati
 * Map Interface, HashMap vs Hashtable vs TreeMap vs LinkedHashMap + complexitati, HashMap Collisions (chaining, linear probing)1
 * Set Interface, HashSet vs TreeSet vs LinkedHashSet + complexitati
 * Queue, Deque, Vector, Stack
-
-##### Laborator 4 - Interview Lab
-* TODO
+* Exercitii
