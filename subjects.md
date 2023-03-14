@@ -46,3 +46,77 @@ Gasiti [aici](https://www.baeldung.com/java-abstract-classes-constructors) si ma
 V-am zis la primul laborator ca se poate adauga 'final' si la parametrii metodelor.
 
 Cred ca merita aruncat un ochi peste [asta](https://stackoverflow.com/questions/2236599/final-keyword-in-method-parameters) si [asta](https://stackoverflow.com/questions/500508/why-should-i-use-the-keyword-final-on-a-method-parameter-in-java).
+
+<h5>Abstract Rules</h5>
+
+- Only instance methods can be marked abstract within a class, not variables, constructors, or static methods.
+- An abstract method can only be declared in an abstract class.
+- A non-abstract class that extends an abstract class must implement all inherited abstract methods.
+- An abstract class is most commonly used when you want another class to inherit properties of a particular class, but you want the subclass to fill in some of the implementation details.
+- An abstract class is not required to include any abstract methods.
+
+A method cannot be marked as both abstract and private. This rule makes sense if you think about it. How would you define a subclass that implements a required method if the method is not inherited by the subclass? The answer is that you can't, which is why the compiler will complain if you try to do it.
+
+While it is not possible to declare a method abstract and private, it is possible (albeit redundant) to declare a method final and private.
+
+<h5>Declaring an Immutable Class</h5>
+
+Although there are a variety of techniques for writing an immutable class, you should be familiar with a common strategy for making a class immutable:
+- Mark the class as final or make all of the constructors private.
+- Mark all the instance variables private and final.
+- Don't define any setter methods.
+- Don't allow referenced mutable objects to be modified.
+- Use a constructor to set all properties of the object, making a copy if needed.
+
+COPY ON READ ACCESSOR METHODS
+
+Besides delegating access to any private mutable objects, another approach is to make a copy of the mutable object any time it is requested.
+
+```java
+public ArrayList<String> getFavoriteFoods() {
+    return new ArrayList<String>(this.favoriteFoods);
+}
+```
+Of course, changes in the copy won't be reflected in the original, but at least the original is protected from external changes. This can be an expensive operation if called frequently by the caller.
+
+<h5>Enum Classes - Constructors </h5>
+
+Enum Classes can only have private constructors.
+
+Enum without a constructor:
+
+```java
+enum Day{
+SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY;
+}
+```
+
+Enum with a constructor:
+
+```java
+enum Size {
+    SMALL("The size is small."),
+    MEDIUM("The size is medium."),
+    LARGE("The size is large."),
+    EXTRALARGE("The size is extra large.");
+
+    private final String pizzaSize;
+    // private enum constructor
+    private Size(String pizzaSize) {
+        this.pizzaSize = pizzaSize;
+    }
+
+    public String getSize() {
+        return pizzaSize;
+    }
+}
+```
+Why can’t we have a public enum constructor?
+
+We need the enum constructor to be private because enums define a finite set of values (SMALL, MEDIUM, LARGE). If the constructor was public, people could potentially create more value. (for example, invalid/undeclared values such as ANYSIZE, YOURSIZE, etc.).
+
+Enum in Java contains fixed constant values. So, there is no reason in having a public or protected constructor as you cannot create an enum instance. Also, note that the internally enum is converted to class. As we can’t create enum objects explicitly, hence we can’t call the enum constructor directly.
+
+<h5>Method References</h5>
+
+V-am zis la laborator de method reference, poate [asta](https://www.baeldung.com/java-method-references) va ajuta sa va clarificati mai mult despre idee.
