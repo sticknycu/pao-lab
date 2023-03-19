@@ -130,3 +130,10 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Set Interface, HashSet vs TreeSet vs LinkedHashSet + complexitati
 * Queue, Deque, Vector, Stack
 * Exercitii
+
+##### Laborator 5
+* bunny-game problem (ref: [aici](https://github.com/nicugnm/bunny-game))
+* Lombok
+* JUnit 5
+* Structurarea fisierelor pe domain/service/repository -> mai multe despre proiect.
+* chestii mai greute cu StreamAPI (Collectors.groupingBy, Collectors.teeing, etc. -> exemple din cartea de OCP 17)
