@@ -120,3 +120,10 @@ Enum in Java contains fixed constant values. So, there is no reason in having a 
 <h5>Method References</h5>
 
 V-am zis la laborator de method reference, poate [asta](https://www.baeldung.com/java-method-references) va ajuta sa va clarificati mai mult despre idee.
+
+<h5>Program to interfaces</h5>
+Un lucru foarte important pe care vi l-am mentionat la laborator este sa programati folosind interfete.
+
+Cred ca v-ar ajuta sa cititi urmatorul articol pentru a intelege problema mai bine. Nu este neaparat de Java, acest lucru trebuind sa fie respectat in orice limbaj de programare, cu mai mult sau mai putin POO.
+
+Incercati sa va faceti putin timp sa il [cititi](https://www.baeldung.com/cs/program-to-interface). 
