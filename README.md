@@ -14,6 +14,8 @@ In fisierul "subjects.md" aveti diverse subiecte care se gasesc si pe Teams, dar
 
 In fisierul "intervews.md" aveti (posibile) intrebari pe care le-am primit eu la interviuri. (Inca nu contin intrebarile de Spring pe care le-am primit).
 
+Aveti un template de proiect pentru teme [aici](https://github.com/nicugnm/pao-template).
+
 Websites:
 - [Baeldung](https://www.baeldung.com/java-tutorial)
 - [Java Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
