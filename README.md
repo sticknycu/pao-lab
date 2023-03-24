@@ -14,6 +14,8 @@ In fisierul "subjects.md" aveti diverse subiecte care se gasesc si pe Teams, dar
 
 In fisierul "intervews.md" aveti (posibile) intrebari pe care le-am primit eu la interviuri. (Inca nu contin intrebarile de Spring pe care le-am primit).
 
+In fisierul "exercitii" gasiti pdf-uri cu exercitii.
+
 Aveti un template de proiect pentru teme [aici](https://github.com/nicugnm/pao-template).
 
 Websites:
