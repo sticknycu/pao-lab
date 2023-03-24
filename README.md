@@ -139,3 +139,21 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * JUnit 5
 * Structurarea fisierelor pe domain/service/repository -> mai multe despre proiect.
 * chestii mai greute cu StreamAPI (Collectors.groupingBy, Collectors.teeing, etc. -> exemple din cartea de OCP 17)
+
+##### Laborator 6
+* Recapitulare prin mai multe exemple (sugestii de la studenti)
+* Exercitii 'tehnice' -> exercitii care iti spun concret cum se implementeaza problema si de ce ai nevoie
+* Exercitii 'creative' -> exercitii care nu iti spun concret cum se implementeaza problema
+* Exercitii 'de gandire' -> exercitii cu string-uri, array-uri, etc.
+
+##### Laborator 7
+* Exceptii
+* Clase Sealed/Non-Sealed
+* Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream
+* Design Patterns
+* Exercitii care sa contina cele studiate
+
+##### Laborator 8
+* HttpClient [aici](https://www.baeldung.com/java-9-http-client)
+* Jackson Library for JSONs [aici, mai multe subiecte](https://www.baeldung.com/jackson)
+* Exercitii care sa contina cele studiate (poate ma gandesc la un fel de bunny-game mai interesant)
