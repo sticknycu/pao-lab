@@ -113,7 +113,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 ##### Laborator 2
 * getters, setters, equals, hashcode, comparation (equals/hashcode), yield blocuri switch, return switch, switch variable, text-block string, pattern matching (instanceof, scope)
 * final, static (blocks + keyword), imutabilitate
-* Modificatori de access: public, protected, default, public
+* Modificatori de access: public, protected, default, private
 * Abstractizare, Incapsulare, Mostenire, Polimorfism (static/dinamic --> supraincarcare/suprascriere), Abstract methods in enums
 * Clase Abstracte, Interfete (+ Clasa Abstracta vs Interfata) Records, Nested Classes (basic)
 * Clasa String (cu metode + imutabilitate)
