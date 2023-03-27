@@ -47,7 +47,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 - Etapa I: saptamana 3 – 7 aprilie **(5p)**
 - Etapa II: saptamana 24 – 28 mai **(5p)**
 
-❕ *Laboratorul inseamna 40% din nota finala. Nota de laborator se obtine astfel: 50% prima etapa + 50% a doua etapa a proiectului + bonus*
+❕ *Nota de laborator se obtine astfel: 50% prima etapa + 50% a doua etapa a proiectului + bonus*
 
 
 ##### Etapa I
@@ -121,7 +121,7 @@ O sa primiti un doc in saptamana in care este deadline-ul de predare al temei, c
 ##### Laborator 3 - Interview Lab
 Continuare lab2: abstract method in enums, nested classes (anonymous), extindere interfete (un fel de diamond problem), order of initialization
 * Functional Interface, Lambda Function
-* Predicate & BiPredicate, Consumer & BiConsumer, Function &BiFunction & UnaryOperator, Supplier, Optional, Comparator & Comparable Interface
+* Predicate & BiPredicate, Consumer & BiConsumer, Function & BiFunction & UnaryOperator, Supplier, Optional, Comparator & Comparable Interface
 * Collections, Stream API
 * Binary Search, Binary Tree
 * Exercitii
@@ -130,7 +130,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Threading (basic), Load Factor & Capacity
 * StringBuilder vs String Buffer
 * List Interface, ArrayList vs LinkedList + complexitati
-* Map Interface, HashMap vs Hashtable vs TreeMap vs LinkedHashMap + complexitati, HashMap Collisions (chaining, linear probing)1
+* Map Interface, HashMap vs Hashtable vs TreeMap vs LinkedHashMap + complexitati, HashMap Collisions (chaining, linear probing)
 * Set Interface, HashSet vs TreeSet vs LinkedHashSet + complexitati
 * Queue, Deque, Vector, Stack
 * Exercitii
