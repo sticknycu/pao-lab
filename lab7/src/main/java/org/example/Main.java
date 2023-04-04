@@ -1,9 +1,25 @@
 package org.example;
 
+import lombok.extern.slf4j.Slf4j;
+
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+@Slf4j
 public class Main {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello world!");
 
+
+        Stream<Integer> oddNumbers = Stream.iterate(1, n -> n + 2);
+
+        var randomStream = Stream.generate(Math::random)
+                .limit(100)
+                        .collect(Collectors.toList());
+
+        oddNumbers
+                .limit(5)
+                        .forEach(s -> System.out.println(s));
 
         metoda1();
        /* try {
