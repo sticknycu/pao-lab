@@ -176,6 +176,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 
 #### Laborator 12 - JDBC (maybe)
 * JDBC TODO about all
+* Mockito [aici](https://www.baeldung.com/mockito-series)
 
 #### Laborator 13 - Spring Boot introduction (maybe)
 * Spring IoC, Spring Boot introduction (model, repositories, services, config - beans)
