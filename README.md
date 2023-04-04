@@ -149,7 +149,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Exercitii 'de gandire' -> exercitii cu string-uri, array-uri, etc.
 
 ##### Laborator 7
-* Exceptii
+* Exceptii + Logging (@Slf4j + @SneakyThrows)
 * Clase Sealed/Non-Sealed
 * Exercitii care sa contina cele studiate
 
