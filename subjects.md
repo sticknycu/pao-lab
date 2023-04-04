@@ -127,3 +127,56 @@ Un lucru foarte important pe care vi l-am mentionat la laborator este sa program
 Cred ca v-ar ajuta sa cititi urmatorul articol pentru a intelege problema mai bine. Nu este neaparat de Java, acest lucru trebuind sa fie respectat in orice limbaj de programare, cu mai mult sau mai putin POO.
 
 Incercati sa va faceti putin timp sa il [cititi](https://www.baeldung.com/cs/program-to-interface). 
+
+<h5>Exceptions</h5>
+
+<img src="imgs/exceptions.png">
+
+Java exceptions are a mechanism for handling errors or exceptional events that occur during program execution.
+Exceptions allow programmers to write code that gracefully handles unexpected situations that may occur during runtime.
+
+<b>Checked Exceptions</b>
+
+Checked exceptions are exceptions that the Java compiler forces you to handle.
+If a method throws a checked exception, the calling code must either catch the exception or declare that it throws the exception.
+
+
+<b>Examples of Checked Exceptions</b>
+
+Examples of checked exceptions include IOException, SQLException, and ClassNotFoundException.
+These exceptions are typically caused by external factors such as network failures, file I/O errors, or missing resources.
+
+<b>Unchecked Exceptions</b>
+
+Unchecked exceptions are exceptions that do not have to be handled by the calling code.
+Unchecked exceptions are typically caused by bugs or errors in the code itself.
+
+
+<b>Examples of Unchecked Exceptions</b>
+
+Examples of unchecked exceptions include NullPointerException, ArrayIndexOutOfBoundsException, and ClassCastException.
+These exceptions are typically caused by programming errors such as dereferencing null objects, accessing array indices out of bounds, or attempting to cast objects to incompatible types.
+
+
+<b>Catching Exceptions</b>
+
+To catch an exception in Java, you use a try-catch block.
+The try block contains the code that may throw an exception, and the catch block contains the code that handles the exception.
+
+
+<b>Throwing Exceptions</b>
+
+To throw an exception in Java, you use the throw keyword.
+You can throw any exception, whether it is checked or unchecked.
+
+
+<b>Best Practices for Exception Handling</b>
+
+Use checked exceptions for recoverable errors and unchecked exceptions for unrecoverable errors.
+Catch specific exceptions rather than catching general Exception classes.
+Always log exceptions to help with debugging and troubleshooting.
+Handle exceptions as close to the source as possible.
+Use finally blocks to release resources and clean up after exceptions.
+
+Exceptions are an important part of Java programming, allowing you to handle errors and exceptional events during runtime.
+By following best practices for exception handling, you can write more robust and reliable code.
