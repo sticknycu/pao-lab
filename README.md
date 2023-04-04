@@ -151,11 +151,35 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 ##### Laborator 7
 * Exceptii
 * Clase Sealed/Non-Sealed
-<!-- Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream-->
-<!--* Design Patterns-->
 * Exercitii care sa contina cele studiate
 
 ##### Laborator 8 (maybe)
 * HttpClient [aici](https://www.baeldung.com/java-9-http-client)
 * Jackson Library for JSONs [aici, mai multe subiecte](https://www.baeldung.com/jackson)
 * Exercitii care sa contina cele studiate (poate ma gandesc la un fel de bunny-game mai interesant)
+
+##### Laborator 9 (maybe)
+* Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream
+* Fisiere csv si altele. (OpenCSV?)
+* Exercitii
+
+#### Laborator 10 (maybe)
+* Design Patterns (cat mai multe si cele mai comune?)
+* Iterator/Spliterator?
+* Exercitii
+
+#### Laborator 11 - Interview Lab (maybe)
+* Concurrency: synchronized, Threads, Runnable, parallel streams
+* Lock, ReentrantLock, Semaphores, ReentrantReadWriteLock, StampedLock, (more?)
+* CyclicBarrier (more?)
+* Producer-Consumer problem
+
+#### Laborator 12 - JDBC (maybe)
+* JDBC TODO about all
+
+#### Laborator 13 - Spring Boot introduction (maybe)
+* Spring IoC, Spring Boot introduction (model, repositories, services, config - beans)
+* Hibernate JPQL/HQL introduction
+
+#### Laborator 14 - Exam Prep
+* Exercitii examen
