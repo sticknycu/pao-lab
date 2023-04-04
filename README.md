@@ -151,7 +151,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 ##### Laborator 7
 * Exceptii
 * Clase Sealed/Non-Sealed
-* Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream
+<!-- Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream-->
 * Design Patterns
 * Exercitii care sa contina cele studiate
 
