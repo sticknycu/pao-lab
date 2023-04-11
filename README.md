@@ -153,10 +153,10 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Clase Sealed/Non-Sealed
 * Exercitii care sa contina cele studiate
 
-##### Laborator 8 (maybe)
+##### Laborator 8
 * HttpClient [aici](https://www.baeldung.com/java-9-http-client)
-* Jackson Library for JSONs [aici, mai multe subiecte](https://www.baeldung.com/jackson)
-* Exercitii care sa contina cele studiate (poate ma gandesc la un fel de bunny-game mai interesant)
+* Jackson Library for JSONs (ObjectMapper in laboratorul asta) [aici, mai multe subiecte](https://www.baeldung.com/jackson)
+* Exercitii care sa contina cele studiate
 
 ##### Laborator 9 (maybe)
 * Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream
