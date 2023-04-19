@@ -158,10 +158,10 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Jackson Library for JSONs (ObjectMapper in laboratorul asta) [aici, mai multe subiecte](https://www.baeldung.com/jackson)
 * Exercitii care sa contina cele studiate
 
-##### Laborator 9 (maybe)
+##### Laborator 9
 * Lucrul cu fisiere: File/Files, FileInputStream, FileOutputStream
-* Fisiere csv si altele. (OpenCSV?)
-* Exercitii
+* Fisiere csv si altele. (OpenCSV)
+* Exercitii: [animal-control-department](https://github.com/nicugnm/animal-control-department)
 
 #### Laborator 10 (maybe)
 * Design Patterns (cat mai multe si cele mai comune?)
