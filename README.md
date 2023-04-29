@@ -163,16 +163,16 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Fisiere csv si altele. (OpenCSV)
 * Exercitii: [animal-control-department](https://github.com/nicugnm/animal-control-department)
 
-#### Laborator 10 (maybe)
+#### Laborator 10
 * Design Patterns (cat mai multe si cele mai comune?)
-* Iterator/Spliterator?
+* Iterator/Spliterator si Generics daca e timp. Daca nu, in Laboratorul 12.
 * Exercitii
 
 #### Laborator 11 - Interview Lab (maybe)
 * Concurrency: synchronized, Threads, Runnable, parallel streams
 * Lock, ReentrantLock, Semaphores, ReentrantReadWriteLock, StampedLock, (more?)
 * CyclicBarrier (more?)
-* Producer-Consumer problem
+* Producer-Consumer problems
 
 #### Laborator 12 - JDBC (maybe)
 * JDBC TODO about all
