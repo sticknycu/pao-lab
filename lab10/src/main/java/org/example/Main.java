@@ -1,5 +1,6 @@
 package org.example;
 
+import java.io.File;
 import java.util.*;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
@@ -7,7 +8,6 @@ import java.util.stream.StreamSupport;
 
 public class Main {
     public static void main(String[] args) {
-
 
         // Deleting inside loop mistake!
         // Concurrent Modification Exception!
@@ -118,6 +118,8 @@ public class Main {
         names2Spliterator.tryAdvance(System.out::println);
         names2Spliterator.tryAdvance(System.out::println);
         names2Spliterator.tryAdvance(System.out::println);
+        names2Spliterator.tryAdvance(System.out::println);
+        names2Spliterator.tryAdvance(System.out::println);
 
 
         System.out.println("=============Infinite Stream Example=========");
@@ -135,12 +137,15 @@ public class Main {
         Stream<Integer> infiniteStream = StreamSupport.stream(infiniteSpliterator, false);
 
         // only one stream, you can't operate 2 streams.
-        //infiniteStream.limit(10).forEach(System.out::println);
+        infiniteStream.limit(10).forEach(System.out::println);
 
         // OR USING tryAdvance:
 
         Spliterator<Integer> integerSpliterator = infiniteStream.spliterator();
 
         integerSpliterator.tryAdvance(System.out::println);
+        integerSpliterator.tryAdvance(System.out::println);
+
+
     }
 }
