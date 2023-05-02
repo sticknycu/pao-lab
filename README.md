@@ -165,7 +165,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 
 #### Laborator 10
 * Design Patterns (cat mai multe si cele mai comune?)
-* Iterator/Spliterator si Generics daca e timp. Daca nu, in Laboratorul 12.
+* Iterator/Spliterator
 * Exercitii
 
 #### Laborator 11 - Interview Lab (maybe)
@@ -175,6 +175,7 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Producer-Consumer problems
 
 #### Laborator 12 - JDBC (maybe)
+* Generics
 * JDBC TODO about all
 * Mockito [aici](https://www.baeldung.com/mockito-series)
 
