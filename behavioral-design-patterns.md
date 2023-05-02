@@ -107,7 +107,7 @@ The lead developer on the project decides to use a combination of design pattern
 
 
 
-##### Observer Pattern
+###### Observer Pattern
 
 - Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
 
@@ -161,7 +161,7 @@ public class User implements Observer {
 }
 ```
 
-##### Chain of Responsibility Pattern
+###### Chain of Responsibility Pattern
 
 - Allows you to pass requests along a chain of handlers, where each handler decides whether to handle the request or pass it to the next handler in the chain.
 
@@ -220,7 +220,7 @@ public class Request {
 }
 ```
 
-##### Command Pattern
+###### Command Pattern
 
 - Encapsulates a request as an object, thereby allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations.
 
@@ -308,7 +308,7 @@ public class CommandInvoker {
 }
 ```
 
-##### Strategy Pattern
+###### Strategy Pattern
 
 - Allows you to define a family of algorithms, encapsulate each one as an object, and make them interchangeable at runtime.
 
@@ -348,7 +348,7 @@ public class SearchAlgorithm {
 }
 ```
 
-##### Template Method Pattern
+###### Template Method Pattern
 
 - Defines the skeleton of an algorithm in a method, allowing subclasses to provide specific behavior for certain steps.
 

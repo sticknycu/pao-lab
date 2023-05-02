@@ -95,7 +95,7 @@ You have been tasked with designing a software system for a car rental company. 
 
 
 
-##### Singleton Pattern
+###### Singleton Pattern
 - Ensures that a class has only one instance and provides a global point of access to that instance.
 
 Example: A logging system in a web application that needs to write log messages to a single file.
@@ -121,7 +121,7 @@ public class Logger {
 }
 ```
 
-##### Factory Method Pattern
+###### Factory Method Pattern
 - Provides an interface for creating objects, but allows subclasses to decide which class to instantiate.
 
 Example: A web application that needs to support multiple payment gateways (e.g. PayPal, Stripe, etc.) for processing payments.
@@ -160,7 +160,7 @@ public class StripeGatewayFactory implements PaymentGatewayFactory {
 }
 ```
 
-##### Abstract Factory Pattern
+###### Abstract Factory Pattern
 - Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 Example: A web application that needs to create user interfaces (UIs) for different platforms (e.g. desktop, mobile, etc.).
