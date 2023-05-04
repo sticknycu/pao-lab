@@ -9,6 +9,7 @@ In folderul "cursuri 2022" sunt cursurile de anul trecut.
 In folderul "cursuri 2023" sunt cursurile de anul acesta.
 
 Nu are legatura cu laboratorul, dar merita citit: [Scrum Guide](https://scrumguides.org/) si aveti si fisierul 'book - how to modern work'.
+
 In folderul "algorithms" sunt carti de algoritmica.
 
 In fisierul "subjects.md" aveti diverse subiecte care se gasesc si pe Teams, dar le-am pus si aici.
