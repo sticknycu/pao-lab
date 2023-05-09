@@ -170,11 +170,17 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Iterator/Spliterator
 * Exercitii
 
-#### Laborator 11 - Interview Lab (maybe)
+#### Laborator 11 - Interview Lab
 * Concurrency: synchronized, Threads, Runnable, parallel streams
-* Lock, ReentrantLock, Semaphores, ReentrantReadWriteLock, StampedLock, (more?)
-* CyclicBarrier (more?)
-* Producer-Consumer problems
+* Lock, ReentrantLock, CyclicBarrier
+* Producer-Consumer problem
+* The ABA Problem [here](https://www.baeldung.com/cs/aba-concurrency)
+* Common Concurrency Problem pitfalls [here](https://www.baeldung.com/java-common-concurrency-pitfalls)
+* Concurrency Principles and Patterns [here](https://www.baeldung.com/concurrency-principles-patterns)
+* Concurrency vs Parallelism [here](https://www.baeldung.com/cs/concurrency-vs-parallelism)
+* Java 19 - Structured Concurrency in Java [here](https://www.baeldung.com/java-structured-concurrency)
+* Java 19 (preview) / 21 (release) - Virtual Threads [here](https://www.baeldung.com/spring-6-virtual-threads#bd-virtual-threads-vs-platform-threads) and [here](https://openjdk.org/jeps/425)
+
 
 #### Laborator 12 - JDBC (maybe)
 * Generics
