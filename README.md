@@ -173,6 +173,8 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 #### Laborator 11 - Interview Lab
 * Concurrency: synchronized, Threads, Runnable, parallel streams
 * Lock, ReentrantLock, CyclicBarrier
+* Deadlock and Livelock example [here](https://www.baeldung.com/java-deadlock-livelock)
+* Starvation example [here](https://medium.com/javarevisited/starvation-of-threads-in-java-e3d6bcfeb770)
 * Producer-Consumer problem
 * The ABA Problem [here](https://www.baeldung.com/cs/aba-concurrency)
 * Common Concurrency Problem pitfalls [here](https://www.baeldung.com/java-common-concurrency-pitfalls)
