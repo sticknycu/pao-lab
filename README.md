@@ -184,12 +184,12 @@ Continuare lab2: abstract method in enums, nested classes (anonymous), extindere
 * Java 19 (preview) / 21 (release) - Virtual Threads [here](https://www.baeldung.com/spring-6-virtual-threads#bd-virtual-threads-vs-platform-threads) and [here](https://openjdk.org/jeps/425)
 * Scoped Values - Java 20 [here](https://www.baeldung.com/java-20-scoped-values)
 
-#### Laborator 12 - JDBC (maybe)
+#### Laborator 12 - JDBC
 * Generics
-* JDBC TODO about all
+* JDBC
 * Mockito [aici](https://www.baeldung.com/mockito-series)
 
-#### Laborator 13 - Spring Boot introduction (maybe)
+#### Laborator 13 - Spring Boot introduction
 * Spring IoC, Spring Boot introduction (model, repositories, services, config - beans)
 * Hibernate JPQL/HQL introduction
 
