@@ -4,10 +4,11 @@ Implementeaza o solutie folosind Spring Boot, pentru a implementa un mini-sistem
 
 O sa ai o clasa ’Account’ prin care vrem sa stocam informatiile conturilor clientilor nostri, clasa ’Client’ prin care ne definim toti clientii existenti. Exista relatie one-to-many.
 
-- Clasa AbstractEntity este o clasa abstracta care contine id-ul, creationDate, disableDate si updatedDate.
 - Clasa Account contine id-ul contului, suma contului, alias-ul, id-ul clientului, tipul de cont si numarul contului (16 cifre).
 - Clasa Client contine informatii despre client cum ar fi ’detaliile personale ale clientului’ (nume, prenume, an nastere, loc nastere, ora nasterii), mail, tipul de client.
 - Tipul de cont este o clasa enum ’AccountType’ si contine urmatoarele tipuri: PERSONAL, BUSINESS.
+
+Toate clasele o sa contina campurile: id-ul, creationDate, disableDate si updatedDate (fara enum).
 
 
 1. Implementeaza toate modelele necesare ale aplicatiei, service-urile si repository-urile in functie de tipul modelului.
